@@ -18,3 +18,16 @@
     list-style: none;
     
 }
+
+.title {
+    display: flex;
+    background-image: url(img/encourageCodeBlur.png);
+    background-size: contain;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.title h1 {
+    color: white;
+}
