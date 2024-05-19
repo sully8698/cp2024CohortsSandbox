@@ -1,21 +1,37 @@
-.bodyIndexHtml {
+body {
     background-color: azure;
+}
+
+.guide {
+    margin-left: 10px;
+}
+
+.center {
+    position: static;
 }
 
 .navBar {
     display: flex;
     background-color: grey;
     border-radius: 30px;
-    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    padding: 5px;
+}
+
+.navBar img {
+    border-radius: 20%;
 }
 
 .navBar ul{
     display: flex;
+    padding-left: .50%;
 }
 
 .navBar li {
-    margin: 0px 10px;
+    margin-right: 10px;
     list-style: none;
+    margin-left: 0;
     
 }
 
