@@ -1,5 +1,5 @@
 # cpGolfPlatoon24
-Sand box website for Golf Platoon 24 Members to contribute to by practicing coding and git skills!
+Sand box website for 2024 Cohorts Members to contribute to by practicing coding and git skills!
 
 Steps to get started with your personal tab.
 1) Make a link to your own html page in the "nav" HTML tag in the the "index.html" file.
